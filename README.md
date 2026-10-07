@@ -1,1 +1,0 @@
-# Swipsti-Data-Governance
