@@ -46,5 +46,3 @@ Die Interviews mit dem Management zeigten:
 - **Integrierte Datenplattform:** ERP, CRM, Webshop und Amazon (SP-API) fließen in einen Data Lake auf AWS; per EL-Prozess in ein PostgreSQL-Data-Warehouse als kanalübergreifende Single Source of Truth. Bereinigte Daten werden per Reverse Sync an ERP und CRM zurückgespielt.
 - **Reporting:** Tableau direkt an das PostgreSQL-DWH angebunden – zentrale Dashboards statt getrennter Abteilungsberichte.
 - **KI-Readiness:** eine gesteuerte Datenbasis für das erste KI-Pilotprojekt.
-
-![End-to-End Data Lineage](docs/img/data-lineage.png)
