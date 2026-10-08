@@ -3,7 +3,7 @@
 **Abschlussprojekt · Beam Institute of Technology (Billigence Data Academy), 2025**
 Team: Dorcas Iradukunda, Mckinley Black, Margarita Sergeeva – ein internationales Team mit unterschiedlichen fachlichen Hintergründen.
 
-Präsentationen: [[Teil I – Assessment & Strategie](docs/Swipsti_I_Assessment.pdf) · [Teil II – Implementierung & Pilot](docs/Swipsti_II_Implementierung.pdf)](https://margaretsergeeva.github.io/swipsti-data-governance/)
+Präsentationen:(https://margaretsergeeva.github.io/swipsti-data-governance/)
 
 ## Ausgangslage
 
